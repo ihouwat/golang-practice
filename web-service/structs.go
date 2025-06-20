@@ -21,7 +21,7 @@ var locations = []location{
 		{ID: 3, Name: "Widget C", Quantity: 150},
 		{ID: 4, Name: "Widget D", Quantity: 300},
 	}},
-	{ID: 2, Name: "Tin's Warehouse", Widgets: []widget{
+	{ID: 3, Name: "Tin's Warehouse", Widgets: []widget{
 		{ID: 5, Name: "Widget E", Quantity: 50},
 		{ID: 6, Name: "Widget F", Quantity: 75},
 	}},
