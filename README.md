@@ -1,0 +1,1 @@
+Paired with React frontend, [see repo](https://github.com/ihouwat/golang-practice)
