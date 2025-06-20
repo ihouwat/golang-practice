@@ -1,1 +1,1 @@
-Paired with React frontend, [see repo](https://github.com/ihouwat/golang-practice)
+Paired with React frontend, [see repo](https://github.com/ihouwat/front-end-react-for-go-backend)
